@@ -16,7 +16,7 @@ app.post('/api/home/amazon', (req, res) => {
 
   const spider = spawn('scrapy', [
     'runspider',
-    './amazon_scraper/spiders/amazon_spider.py',
+    './scrapers/spiders/amazon_spider.py',
     '-a',
     `product_name=${product_name}`,
     '-a',
