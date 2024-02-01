@@ -2,12 +2,6 @@
   "data": [
     {
       "title": "",
-      "price": "49,990",
-      "image_link": "",
-      "link_to_product": ""
-    },
-    {
-      "title": "",
       "price": "",
       "image_link": "https://m.media-amazon.com/images/G/31/img17/AmazonBusiness/Acquistion/searchsparkle_1314_772_0409_tt._CB1198675309_QL95_SY80_.jpg",
       "link_to_product": ""
@@ -19,76 +13,22 @@
       "link_to_product": ""
     },
     {
-      "title": "ASUS Vivobook Go 14 (2023), AMD Ryzen 5 7520U, 14-inch (35.56 cm) FHD, Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/Alexa Built-in/Silver/1.38 kg), E1404FA-NK521WS",
-      "price": "38,990",
-      "image_link": "https://m.media-amazon.com/images/I/71EZt2075RL._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-Vivobook-14-inch-Windows-E1404FA-NK521WS/dp/B0BVMM9CW5"
+      "title": "HP Victus Gaming Laptop 11th Gen Intel Core i5-11400H16.1 inch(40.9 cm) FHD IPS Gaming Laptop(16GB RAM/512GB SSD/NVIDIA GeForce GTX 1650 graphics/144Hz/Backlit KB/Win 11/MSO/B&O/Alexa),16-d0311TX",
+      "price": "56,490",
+      "image_link": "https://m.media-amazon.com/images/I/81ix3yG1QDL._AC_UY218_.jpg",
+      "link_to_product": "/HP-i5-11400H16-1-GeForce-graphics-Backlit/dp/B0BSFZZKC1"
     },
     {
-      "title": "ASUS TUF Gaming F15 - AI Powered Gaming Laptop, Intel Core i5-11400H 11th Gen, 15.6-inch (39.62 cm) FHD 144Hz, (8GB/512GB SSD/4GB NVIDIA RTX 2050/Win 11/ RGB Backlit/Black/2.30 kg),FX506HF-HN024W",
-      "price": "49,990",
-      "image_link": "https://m.media-amazon.com/images/I/71-Fx3Vfq5L._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-TUF-Gaming-F15-FX506HF-HN024W/dp/B0C27TZ8CB"
+      "title": "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+      "price": "25,990",
+      "image_link": "https://m.media-amazon.com/images/I/71lYhcc++AL._AC_UY218_.jpg",
+      "link_to_product": "/ASUS-15-6-inch-Integrated-Transparent-X515MA-BR011W/dp/B09SGGB687"
     },
     {
-      "title": "ASUS Zenbook 14 Flip OLED (2023), Intel Core EVO i7-1360P 13th Gen, 14\" (35.56 cm) 2.8K 90Hz OLED, Thin & Light Laptop (16GB/1TB SSD/Iris Xe/Win 11/Office 2021/75WHr/Silver/1.5 kg), UP3404VA-KN753WS",
-      "price": "1,14,990",
-      "image_link": "https://m.media-amazon.com/images/I/81UScz47obL._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-Zenbook-i7-1360P-Laptop-UP3404VA-KN753WS/dp/B0C1GGK8G1"
-    },
-    {
-      "title": "",
-      "price": "75,990",
-      "image_link": "https://m.media-amazon.com/images/I/81UWgnVKDBL._AC_UL320_.jpg",
-      "link_to_product": "/ASUS-i7-11800H-GeForce-Battery-FX506HE-HN385WS/dp/B0CJ2X5NJ3?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
-    },
-    {
-      "title": "",
-      "price": "75,990",
-      "image_link": "https://m.media-amazon.com/images/I/81UWgnVKDBL._AC_UL320_.jpg",
-      "link_to_product": "/ASUS-i7-11800H-GeForce-Battery-FX506HE-HN385WS/dp/B0CJ2X5NJ3?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
-    },
-    {
-      "title": "",
-      "price": "79,990",
-      "image_link": "https://m.media-amazon.com/images/I/61GkvvDNnCL._AC_UL320_.jpg",
-      "link_to_product": "/ASUS-17-3-inch-7-6800HS-Graphics-G713RC-HX109WS/dp/B0CJ34MB5Y?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
-    },
-    {
-      "title": "",
-      "price": "89,990",
-      "image_link": "https://m.media-amazon.com/images/I/61mI-ghw8mL._AC_UL320_.jpg",
-      "link_to_product": "/ASUS-Flow-13-4-34-03-GV301RC-LJ132WS/dp/B0CQLNTLXT?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
-    },
-    {
-      "title": "",
-      "price": "38,990",
-      "image_link": "https://m.media-amazon.com/images/I/71EZt2075RL._AC_UL320_.jpg",
-      "link_to_product": "/ASUS-Vivobook-14-inch-Windows-E1404FA-NK521WS/dp/B0BVMM9CW5?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
-    },
-    {
-      "title": "",
-      "price": "79,990",
-      "image_link": "https://m.media-amazon.com/images/I/71FE4cemJ9L._AC_UL320_.jpg",
-      "link_to_product": "/ASUS-Vivobook-i9-13900H-Fingerprint-X1605VA-MB946WS/dp/B0CHMYJ9BK?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
-    },
-    {
-      "title": "",
-      "price": "29,990",
-      "image_link": "https://m.media-amazon.com/images/I/71mksp9a0LL._AC_UL320_.jpg",
-      "link_to_product": "/ASUS-Vivobook-i3-1115G4-Windows-X1400EA-EK323WS/dp/B0CLLG9711?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
-    },
-    {
-      "title": "",
-      "price": "39,990",
-      "image_link": "https://m.media-amazon.com/images/I/71c0GSxtEEL._AC_UL320_.jpg",
-      "link_to_product": "/ASUS-Vivobook-Integrated-Fingerprint-X1502ZA-EJ385WS/dp/B0CJF1WJMS?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D"
-    },
-    {
-      "title": "",
-      "price": "60,739",
-      "image_link": "https://m.media-amazon.com/images/I/51qtYoYjtbL._AC_UL320_.jpg",
-      "link_to_product": "/ASUS-Vivobook-i7-12650H-X1502ZA-EJ741WS-BP1504/dp/B0CKKWV4CS?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D"
+      "title": "Chuwi HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",
+      "price": "17,990",
+      "image_link": "https://m.media-amazon.com/images/I/61DsD89y5rL._AC_UY218_.jpg",
+      "link_to_product": "/Chuwi-HeroBook-Pro-Windows-Mini-HDMI/dp/B0CP9TFVK4"
     },
     {
       "title": "",
@@ -97,16 +37,16 @@
       "link_to_product": ""
     },
     {
-      "title": "ASUS Vivobook 15, Intel Core i5-12500H 12th Gen, 15.6\" (39.62 cm) FHD, Thin and Light Laptop (16GB/512GB/Win11/Office 2021/Silver/1.7 kg), X1502ZA-EJ542WS",
-      "price": "52,990",
-      "image_link": "https://m.media-amazon.com/images/I/715ILl21q2L._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-Vivobook-i5-12500H-Laptop-X1502ZA-EJ542WS/dp/B0C5Y3JBC4"
+      "title": "HP Laptop 15s, 12th Gen Intel Core i3-1215U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, Intel UHD Graphics, Backlit KB, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), fq5007TU",
+      "price": "38,990",
+      "image_link": "https://m.media-amazon.com/images/I/71JcuGuw4XL._AC_UY218_.jpg",
+      "link_to_product": "/HP-i3-1215U-15-6-inch-Graphics-Speakers/dp/B0BP2M7CCS"
     },
     {
-      "title": "ASUS Vivobook 15, Intel Core i5-1235U 12th Gen, 15.6\" (39.62 cm) FHD, Thin and Light Laptop (8GB RAM/512GB SSD/Windows 11 Home/Office 2021/Backlit Keyboard/Quiet Blue/1.7 kg), X1504ZA-NJ521WS",
-      "price": "47,990",
-      "image_link": "https://m.media-amazon.com/images/I/71qTbS09tjL._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-Vivobook-i5-1235U-Keyboard-X1504ZA-NJ521WS/dp/B0C8K26BK8"
+      "title": "HP Chromebook X360 Intel Celeron N4120 14 inch(35.6 cm) Micro-Edge, Touchscreen, 2-in-1 Laptop (4GB RAM/64GB eMMC/Chrome OS/Intel UHD Graphics,1.49Kg), 14a-ca0506TU",
+      "price": "27,990",
+      "image_link": "https://m.media-amazon.com/images/I/618lXcNS7VL._AC_UY218_.jpg",
+      "link_to_product": "/HP-Chromebook-Micro-Edge-Touchscreen-14a-ca0506TU/dp/B09QQPGDBG"
     },
     {
       "title": "ASUS Vivobook 14, Intel Core i3-1115G4 11th Gen, 14\" (35.56 cms) FHD, Thin and Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/Transparent Silver/1.60 kg), X1400EA-EK322WS",
@@ -115,70 +55,64 @@
       "link_to_product": "/ASUS-Vivobook-i3-1115G4-Transparent-X1400EA-EK322WS/dp/B0C3CNRQD1"
     },
     {
-      "title": "ASUS [SmartChoice] Vivobook 15, Intel Celeron N4020, 15.6\" (39.62 cms) HD, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Fingerprint/Silver/1.8 kg), X515MA-BR024WS",
-      "price": "27,990",
-      "image_link": "https://m.media-amazon.com/images/I/71kJlKb2r8L._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-SmartChoice-Integrated-Fingerprint-X515MA-BR024WS/dp/B0C1GM4C6V"
+      "title": "HONOR MagicBook X16 (2024), 12th Gen Intel Core i5-12450H, 16-inch (40.64 cm) FHD IPS Anti-Glare Thin and Light Laptop (16GB/512GB PCIe SSD/Windows 11/ Full-Size Numeric Keyboard /1.68Kg), Gray",
+      "price": "48,990",
+      "image_link": "https://m.media-amazon.com/images/I/61aaFLxqFKL._AC_UY218_.jpg",
+      "link_to_product": "/MagicBook-i5-12450H-Anti-Glare-Full-Size-Keyboard/dp/B0CRQB4HBP"
     },
     {
-      "title": "ASUS [SmartChoice] Vivobook 16X (2022), 16.0-inch (40.64 cms) FHD+ 16:10, AMD Ryzen 5 5600H, Thin and Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Silver/1.80 kg), M1603QA-MB501WS",
-      "price": "46,990",
-      "image_link": "https://m.media-amazon.com/images/I/71KXxVGeMVL._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-Vivobook-16-0-inch-40-64-M1603QA-MB501WS/dp/B0B8ZT96HS"
+      "title": "Dell 15 Laptop, Intel Core i3-1115G4 Processor/8GB DDR4/512GB SSD/Intel UHD Graphics/15.6\" (39.6cm) FHD 120Hz Refresh, 250 nits/Mobile Connect/Win 11+MSO'21/15 Month McAfee/Black/Thin & Light-1.66kg",
+      "price": "37,490",
+      "image_link": "https://m.media-amazon.com/images/I/61AKQ9BoCCL._AC_UY218_.jpg",
+      "link_to_product": "/Dell-i3-1115G4-Processor-Graphics-Light-1-66kg/dp/B0CCSPWCQY"
     },
     {
-      "title": "ASUS Vivobook 14, IntelCore i3-1215U 12th Gen, 14\" (35.56 cm) FHD, Thin and Light Laptop (8 GB RAM/512GB SSD/Win11/Office 2021/Fingerprint/42WHr /Blue/1.40 kg), X1404ZA-NK321WS",
-      "price": "36,990",
-      "image_link": "https://m.media-amazon.com/images/I/71qTbS09tjL._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-Vivobook-IntelCore-Fingerprint-X1404ZA-NK321WS/dp/B0CCP9PH92"
+      "title": "HP Laptop 15s, Intel Celeron, 15.6-inch (39.6 cm), HD, 8GB DDR4, 512GB SSD, Intel UHD Graphics, Thin & Light, Dual Speakers, BrightView Display (Win 11, MSO 2021, Silver, 1.65 kg), fq3071TU",
+      "price": "29,490",
+      "image_link": "https://m.media-amazon.com/images/I/81GuRJraGlL._AC_UY218_.jpg",
+      "link_to_product": "/HP-15-6-inch-Graphics-Speakers-BrightView/dp/B0C3CLH1PV"
     },
     {
-      "title": "",
-      "price": "",
-      "image_link": "",
-      "link_to_product": ""
+      "title": "TECNO MEGABOOK T1, Intel Core 11th Gen i5 Processor (16GB RAM/512GB SSD Storage),15.6-Inch (39.62 CM), Eye Comfort disply, (14.8mm Ultra Slim/70 Wh Large Battery/Windows 11/ Moonshine Silver/1.56 Kg)",
+      "price": "29,990",
+      "image_link": "https://m.media-amazon.com/images/I/61zAPJOwK8L._AC_UY218_.jpg",
+      "link_to_product": "/MEGABOOK-Processor-512GB-15-6-Inch-Moonshine/dp/B0CB4C9V56"
     },
     {
-      "title": "ASUS Vivobook 16, Intel®Core™ i3-1215U 12th Gen, 16-inch (40.64 cm) FHD+, Thin and Light Laptop (8 GB RAM/512GB SSD/Win11/FingerPrint/Black/1.88kg), X1605ZAB-MB322WS",
-      "price": "37,990",
-      "image_link": "https://m.media-amazon.com/images/I/71p1GQQCCWL._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-Vivobook-Intel%C2%AECoreTM-FingerPrint-X1605ZAB-MB322WS/dp/B0CFVYSZFG"
+      "title": "Dell 15 Laptop, Intel Core i5-1135G7 Processor/ 8GB/ 1TB+256GB SSD/15.6\"(39.5cm) FHD Display/Mobile Connect/Windows 11 + MSO'21/15 Month McAfee/Spill-Resistant Keyboard/Black/Thin & Light 1.69kg",
+      "price": "47,990",
+      "image_link": "https://m.media-amazon.com/images/I/61dLDp3+NRL._AC_UY218_.jpg",
+      "link_to_product": "/Dell-i5-1135G7-Processor-Spill-Resistant-Keyboard/dp/B0C2HVX9W9"
     },
     {
-      "title": "ASUS [SmartChoice] TUF Gaming Laptop F15, Intel Core i5-11400H 11th Gen, 15.6\" (39.62 cm) FHD 144Hz, (16GB/512GB SSD/4GB NVIDIA GeForce RTX 2050/Win 11/ RGB Backlit KB/Black/2.30 kg), FX506HF-HN025W",
-      "price": "53,990",
-      "image_link": "https://m.media-amazon.com/images/I/71-Fx3Vfq5L._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-SmartChoice-i5-11400H-GeForce-FX506HF-HN025W/dp/B0C27SD9YR"
+      "title": "HP Laptop 15s, 12th Gen Intel Core i3-1215U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 1TB SSD, Intel UHD Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), fy5005TU",
+      "price": "42,390",
+      "image_link": "https://m.media-amazon.com/images/I/71bIK-gYr6L._AC_UY218_.jpg",
+      "link_to_product": "/HP-i3-1215U-15-6-inch-Graphics-Speakers/dp/B0C9DSC2N6"
     },
     {
-      "title": "ASUS Vivobook 14, IntelCore i3-1215U 12th Gen, 14\" (35.56 cm) FHD, Thin and Light Laptop (8 GB RAM/512GB SSD/Win11/Office 2021/Fingerprint/42WHr /Silver/1.40 kg), X1404ZA-NK322WS",
-      "price": "36,990",
-      "image_link": "https://m.media-amazon.com/images/I/71hu2MKb3xL._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-Vivobook-IntelCore-Fingerprint-X1404ZA-NK322WS/dp/B0CCPBPYSB"
+      "title": "MSI Modern 14, Intel 12th Gen. i7-1255U, 36CM FHD 60Hz Laptop (16GB/512GB NVMe SSD/Windows 11 Home/Intel Iris Xe Graphics/Classic Black/1.4Kg), C12M-459IN",
+      "price": "49,990",
+      "image_link": "https://m.media-amazon.com/images/I/61yN+3Z7WtL._AC_UY218_.jpg",
+      "link_to_product": "/MSI-i7-1255U-Windows-Graphics-C12M-459IN/dp/B09YCX5F52"
     },
     {
-      "title": "ASUS Vivobook 16X, AMD Ryzen 7 5800HS, 16\" (40.64 cm) WUXGA, Thin & Light Laptop (16GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Backlit/Fingerprint/Silver/1.88 kg), M1603QA-MB742WS",
-      "price": "57,990",
-      "image_link": "https://m.media-amazon.com/images/I/71HD+TwPD8L._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-Vivobook-Integrated-Fingerprint-M1603QA-MB742WS/dp/B0C1YY11X3"
+      "title": "TECNO MEGABOOK T1, Intel Core 11th Gen i3 Processor (8GB RAM/ 512GB SSD Storage), 15.6-Inch (39.62 CM) Eye Comfort disply, (14.8mm Ultra Slim/ 70 Wh Large Battery/Windows 11/ Space Grey / 1.56 Kg)",
+      "price": "23,990",
+      "image_link": "https://m.media-amazon.com/images/I/61xY8U1KM5L._AC_UY218_.jpg",
+      "link_to_product": "/MEGABOOK-Processor-512GB-Storage-15-6-Inch/dp/B0CB4DS4CR"
     },
     {
-      "title": "ASUS VivoBook 15 (2021), 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
-      "price": "19,990",
-      "image_link": "https://m.media-amazon.com/images/I/71lYhcc++AL._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-15-6-inch-Integrated-Transparent-X515MA-BR011W/dp/B09SGGB687"
+      "title": "HP Pavilion Aero AMD Ryzen 7 7735U 13.3 inch(33.8cm) WUXGA IPS Micro-Edge Laptop(16GB RAM/1TB SSD/AMD Radeon Graphics/Win 11/MSO/Backlit Keyboard/B&O/FPR/Alexa/Rose Gold/970 Grams) 13-be2046AU",
+      "price": "79,990",
+      "image_link": "https://m.media-amazon.com/images/I/514KSP5IwIL._AC_UY218_.jpg",
+      "link_to_product": "/HP-Pavilion-Micro-Edge-Graphics-13-be2046AU/dp/B0BXLPL4KX"
     },
     {
-      "title": "ASUS Zenbook S 13 OLED (2023), 1kg Weight & 1cm Thin, Intel Core EVO i5 13th Gen, 13.3 Inch 2.8K OLED, Thin & Light Laptop (16GB/512GB SSD/Iris Xe/Win 11/Office 2021/63WHrs/Blue), UX5304VA-NQ541WS",
-      "price": "95,800",
-      "image_link": "https://m.media-amazon.com/images/I/71HirpAPlSL._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-Zenbook-Weight-Laptop-UX5304VA-NQ541WS/dp/B0C1GFMWZ4"
-    },
-    {
-      "title": "ASUS Vivobook Go 15 OLED (2023), AMD Ryzen 5 7520U, 15.6\" (39.62 cms) FHD OLED, Thin and Light Laptop (16GB/512GB SSD/Windows 11/Office 2021/Backlit KB/Black/1.63 kg), E1504FA-LK545WS",
-      "price": "56,622",
-      "image_link": "https://m.media-amazon.com/images/I/71nAEVpqXuL._AC_UY218_.jpg",
-      "link_to_product": "/ASUS-Vivobook-Windows-Backlit-E1504FA-LK545WS/dp/B0C1GJZYG4"
+      "title": "Lenovo IdeaPad D330 Intel Celeron N4020 10.1\" (25cm) HD IPS Detachable 2-in-1 Laptop (4GB/128GB eMMC/Windows 10/1 Yr Warranty/Mineral Grey/1.1Kg), 82H0001YIN",
+      "price": "24,990",
+      "image_link": "https://m.media-amazon.com/images/I/51gkDWHPvQL._AC_UY218_.jpg",
+      "link_to_product": "/Lenovo-IdeaPad-Detachable-Warranty-82H0001YIN/dp/B09SV2B5SR"
     },
     {
       "title": "",
