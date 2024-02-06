@@ -20,6 +20,7 @@ html_text = response.content
 # Parse the HTML content
 soup = BeautifulSoup(html_text, 'html.parser')
 print(response.status_code)
+# print(soup);
 
 data = {"data": []}  # Initialize data dictionary with 'data' key as a list
 
